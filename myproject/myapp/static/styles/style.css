@@ -1,0 +1,22 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #c4c4c4;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+    overflow: hidden;
+}
+
+button{
+    background-color: blue;
+    color: #f9f9f9;
+    padding: 10px 20px;
+    border: none
+}
+
+button:hover{
+    background-color: #357ab8;
+
+}
+
+.ce
